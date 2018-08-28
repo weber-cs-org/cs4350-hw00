@@ -1,6 +1,6 @@
 # Homework 00
 
-## Replace with your name <First> <Last>
+## Replace with your name *First* *Last*
 
 ## Instructions
 
