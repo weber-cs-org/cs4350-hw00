@@ -1,5 +1,7 @@
 # Homework 00
 
+## Replace with your name *First* *Last*
+
 ## Instructions
 
 ### 00 - Hello World - Points **15**
