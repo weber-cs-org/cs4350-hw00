@@ -1,5 +1,5 @@
 <?php
 
 function GetString() {
-    // TODO you code goes here
+    return 'Hello, world!' . PHP_EOL;
 }
